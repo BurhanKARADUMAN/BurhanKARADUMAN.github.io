@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://burhankaraduman.github.io/sitemap.xml
